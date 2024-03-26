@@ -103,7 +103,7 @@
   * [4.3: TypeScript](4-capstone/4.3-typescript.md)
   * [4.4: Security](4-capstone/4.4-security.md)
   * [4.5: ChatGPT for SWE](4-capstone/4.5-chatgpt-for-swe.md)
-  * [4.6 Soft Skills for SWE](4-capstone/4.6-soft-skills-for-swe.md)
+  * [4.6: Soft Skills for SWE](4-capstone/4.6-soft-skills-for-swe.md)
   * [4.P: Capstone](4-capstone/4.p-capstone.md)
 * [🧮 Algorithms](algorithms/README.md)
   * [A.1: Data Structures](algorithms/a.1-data-structures/README.md)
