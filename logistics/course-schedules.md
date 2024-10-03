@@ -6,6 +6,6 @@ Rocket Academy runs several Coding Bootcamp batches concurrently.
 
 Please check your latest schedules on the LMS: 
 
-[https://skills.disco.co](https://skills.disco.co/p/bootcamp-master)
+[https://skills.disco.co](https://skills.disco.co)
 
 
